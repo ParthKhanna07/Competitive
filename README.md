@@ -1,2 +1,2 @@
 # Competitive
-Compettive
+Compettive Programming Questions
